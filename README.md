@@ -3,5 +3,5 @@
     Fork.io Game
 </h1>
 <h4 align="center">
-  <a href="https://example-io-game.victorzhou.com">Pointer.io - Game</a>
+  <a href="https://link1147.github.io/pointer.io/">Pointer.io - Game</a>
 </h4>
